@@ -21,6 +21,6 @@ Introduzir os conceitos fundamentais do desenvolvimento web, fornecendo aos estu
 
 ## Competências Relacionadas
 
-(A) Projetar soluções de sistemas adequadas às demandas e ao contexto;
-(B) Desenvolver e testar aplicações front-end em diferentes dispositivos, plataformas e linguagens de programação;
-(C) Desenvolver e testar aplicações back-end em diferentes plataformas e linguagens de programação;
+(A) Projetar soluções de sistemas adequadas às demandas e ao contexto.
+(B) Desenvolver e testar aplicações front-end em diferentes dispositivos, plataformas e linguagens de programação.
+(C) Desenvolver e testar aplicações back-end em diferentes plataformas e linguagens de programação.
