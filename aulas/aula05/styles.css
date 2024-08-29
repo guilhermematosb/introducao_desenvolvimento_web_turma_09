@@ -1,0 +1,19 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: green;
+}
+
+.minha-classe {
+    background-color: aqua;
+}
+
+#meu-identificador {
+    background-color: brown;
+}
